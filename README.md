@@ -1,4 +1,5 @@
-## Hi there 👋
+### 👋 Hi, I'm Inder
+#### &nbsp;💻  Senior iOS Developer (Swift | SwiftUI | Flutter | React Native)
 
 <!--
 **InderJagdeo/InderJagdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
