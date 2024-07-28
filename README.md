@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Inder
 #### &nbsp;💻  Senior iOS Developer (Swift | SwiftUI | Flutter | React Native)
 
-### &nbsp;[Github Portfolio](https://github.com/InderJagdeo/iOS-Developer-Portfolio)
+### 👨🏻‍💻 [Github Portfolio](https://github.com/InderJagdeo/iOS-Developer-Portfolio)
 
 <!--
 **InderJagdeo/InderJagdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
