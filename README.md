@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Inder
 #### &nbsp;💻  Senior iOS Developer (Swift | SwiftUI | Flutter | React Native)
 
-### 👨🏻‍💻 [Github Portfolio](https://github.com/InderJagdeo/iOS-Developer-Portfolio)
+### 👨🏻‍💻 [My Github Portfolio](https://github.com/InderJagdeo/iOS-Developer-Portfolio)
 
 &nbsp;<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inderjagdeo&show_icons=true&locale=en" alt="inderjagdeo" /></p>
 
