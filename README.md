@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Inder
+## 👋 Hi, I'm Inder
 #### &nbsp;💻  Senior iOS Developer (Swift | SwiftUI | Flutter | React Native)
 
 ### 👨🏻‍💻 [Github Portfolio](https://github.com/InderJagdeo/iOS-Developer-Portfolio)
