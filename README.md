@@ -3,13 +3,11 @@
 
 ### 👨🏻‍💻 [My Github Portfolio](https://github.com/InderJagdeo/iOS-Developer-Portfolio)
 
-&nbsp;<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inderjagdeo&show_icons=true&locale=en" alt="inderjagdeo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inderjagdeo&" alt="inderjagdeo" /></p>
-
 <!--
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inderjagdeo&show_icons=true&locale=en&layout=compact" alt="inderjagdeo" /></p>
+&nbsp;<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inderjagdeo&show_icons=true&locale=en" alt="inderjagdeo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inderjagdeo&" alt="inderjagdeo" /></p>
 **InderJagdeo/InderJagdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
