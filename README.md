@@ -1,13 +1,14 @@
-### 👋 Hi, I'm Inder
-#### 💻  Senior iOS Developer (Swift | SwiftUI | Flutter | React Native)
-#### 👨🏻‍💻 [Github Portfolio](https://github.com/InderJagdeo/iOS-Developer-Portfolio)
-
-&nbsp;
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inderjagdeo&show_icons=true&locale=en&layout=compact" alt="inderjagdeo" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inderjagdeo&show_icons=true&locale=en" alt="inderjagdeo" /></p>
+<div align="center">
+  <h3>👋 Hi, I'm Inder</h3>
+  <h4>💻 Senior iOS Developer (Swift | SwiftUI | Flutter | React Native)</h4>
+  <p>Welcome to my GitHub Profile!</p>
+  <p>I am a self-taught iOS developer from India with years of experience in designing, coding, and publishing mobile applications for Apple & Android devices, including iPhone and iPad.My expertise lies in Swift, SwiftUI, Combine, and the MVVM architecture, and I have a strong passion for creating intuitive and engaging user experiences.</p>
+</div>
 
 <!--
-
+#### 👨🏻‍💻 [Github Portfolio](https://github.com/InderJagdeo/iOS-Developer-Portfolio)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inderjagdeo&show_icons=true&locale=en&layout=compact" alt="inderjagdeo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inderjagdeo&show_icons=true&locale=en" alt="inderjagdeo" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inderjagdeo&" alt="inderjagdeo" /></p>
 **InderJagdeo/InderJagdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
