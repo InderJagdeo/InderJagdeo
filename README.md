@@ -3,7 +3,7 @@
   <h4>💻 Senior iOS Developer (Swift | SwiftUI | Flutter | React Native)</h4>
   <p>Welcome to my GitHub Profile!</p>
   <p>I am a self-taught iOS developer from India with years of experience in designing, coding, and publishing mobile applications for Apple & Android devices, including iPhone and iPad.My expertise lies in Swift, SwiftUI, Combine, and the MVVM architecture, and I have a strong passion for creating intuitive and engaging user experiences.</p>
-  <p>Feel free to explore my projects, provide feedback, and connect with me for any potential collaborations or freelance opportunities.</p>
+  <p>Feel free to connect with me for any potential collaborations or freelance opportunities.</p>
 
   <a href="https://www.linkedin.com/in/inderjagdeo">
       <img src="Assets/icons/linkedin.png" width="40" height="40"></a>&nbsp;
