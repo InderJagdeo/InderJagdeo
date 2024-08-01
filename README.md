@@ -1,7 +1,7 @@
 <div align="center">
   <h3>👋 Hi, I'm Inder</h3>
   <h4>💻 Senior iOS Developer (Swift | SwiftUI | Flutter | React Native)</h4>
-  <p>Welcome to my GitHub Profile!</p>
+  <h4>Welcome to my GitHub Profile!</h4>
   <p>I am a self-taught iOS developer from India with years of experience in designing, coding, and publishing mobile applications for Apple & Android devices, including iPhone and iPad.My expertise lies in Swift, SwiftUI, Combine, and the MVVM architecture, and I have a strong passion for creating intuitive and engaging user experiences.</p>
   <p>Feel free to connect with me for any potential collaborations or freelance opportunities.</p>
 
