@@ -8,11 +8,9 @@
   <a href="https://www.linkedin.com/in/inderjagdeo">
       <img src="Assets/icons/linkedin.png" width="40" height="40"></a>&nbsp;
   <a href="https://www.instagram.com/inder.jagdeo">
-      <img src="Assets/icons/instagram.png" width="34" height="34"></a>&nbsp;
+      <img src="Assets/icons/instagram.png" width="40" height="40"></a>&nbsp;
   <a href="https://x.com/_InderJagdeo">
-      <img src="Assets/icons/twitter.png" width="30" height="30"></a>&nbsp;
-  <a href="https://stackoverflow.com/users/7665968/inder-jagdeo">
-      <img src="Assets/icons/stackoverflow.png" width="40" height="36"></a>
+      <img src="Assets/icons/twitter.png" width="40" height="40"></a>&nbsp;
 </div>
 
 <!--
