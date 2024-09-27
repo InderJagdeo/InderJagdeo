@@ -12,6 +12,11 @@
   <a href="https://x.com/_InderJagdeo">
       <img src="Assets/icons/twitter.png" width="40" height="40"></a>&nbsp;
 </div>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<div align="center">
+  To explore my projects in detail, feel free to visit my 👨🏻‍💻 <a href="https://github.com/InderJagdeo/iOS-Developer-Portfolio" target="_blank" style="text-decoration: none;">GitHub Portfolio</a>.
+</div>
 
 <!--
 #### 👨🏻‍💻 [Github Portfolio](https://github.com/InderJagdeo/iOS-Developer-Portfolio)
