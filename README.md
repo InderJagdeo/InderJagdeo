@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="Assets/icons/ios-developer.png" width="200" height="200"></a>&nbsp;
   <h3>👋 Hi, I'm Inder</h3>
   <h4>💻 Senior iOS Developer (Swift | SwiftUI | Flutter | React Native)</h4>
   <h4>Welcome to my GitHub Profile!</h4>
