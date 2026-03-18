@@ -26,7 +26,7 @@
 - Senior iOS Developer / Lead roles  
 - Freelance & long-term contract projects  
 - iOS, Flutter & React Native app development  
-- Remote opportunities (US, Europe, Australia clients)
+- Remote opportunities (Global clients)
 ---
 ## Professional Summary
 Highly accomplished Senior Mobile Application Developer with over 10 years of experience specializing in the design, development, and deployment of robust iOS, Android, and cross-platform applications. Expert in Swift, SwiftUI, UIKit, Combine, MVVM, Flutter, and React Native, with a proven track record of architecting scalable, maintainable, and high-performing mobile products. Demonstrated leadership in end-to-end development, including App Store/Play Store publishing, REST API integration, and Agile delivery. Adept at conducting code reviews, mentoring junior developers, and fostering cross-functional collaboration to deliver user-centric mobile experiences.
