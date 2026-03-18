@@ -21,7 +21,7 @@
 
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
-### Open To Opportunities
+### 🔍 Open To Opportunities
 
 - Senior iOS Developer / Lead roles  
 - Freelance & long-term contract projects  
