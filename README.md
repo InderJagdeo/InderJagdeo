@@ -27,6 +27,7 @@
 - Freelance & long-term contract projects  
 - iOS, Flutter & React Native app development  
 - Remote opportunities (US, Europe, Australia clients)
+---
 
 &nbsp;&nbsp;&nbsp;
 ## Professional Summary
