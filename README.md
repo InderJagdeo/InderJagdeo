@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Assets/icons/ios-developer.png" width="200" height="200"></a>&nbsp;
   <h3>👋 Hi, I'm Inder</h3>
-  <h4>💻 Senior iOS Developer (Swift | SwiftUI | Flutter | React Native)</h4>
+  <h4>💻 iOS Team Lead | Senior Mobile Engineer | Swift • SwiftUI • Flutter • React Native • Mobile Architecture</h4>
   <h4>Welcome to my GitHub Profile!</h4>
   <p>I am a self-taught iOS developer from India with years of experience in designing, coding, and publishing mobile applications for Apple & Android devices, including iPhone and iPad. I have a strong passion for creating intuitive and engaging user experiences.</p>
   <p>Feel free to connect with me for any potential collaborations or freelance opportunities.</p>
@@ -23,26 +23,42 @@
 &nbsp;&nbsp;&nbsp;
 ### 🔍 Open To Opportunities
 
-- Senior iOS Developer / Lead roles  
+- Team Lead / Senior iOS Developer roles
 - Freelance & long-term contract projects  
 - iOS, Flutter & React Native app development  
 - Remote opportunities (Global clients)
 ---
 ## Professional Summary
-Highly accomplished Senior Mobile Application Developer with over 10 years of experience specializing in the design, development, and deployment of robust iOS, Android, and cross-platform applications. Expert in Swift, SwiftUI, UIKit, Combine, MVVM, Flutter, and React Native, with a proven track record of architecting scalable, maintainable, and high-performing mobile products. Demonstrated leadership in end-to-end development, including App Store/Play Store publishing, REST API integration, and Agile delivery. Adept at conducting code reviews, mentoring junior developers, and fostering cross-functional collaboration to deliver user-centric mobile experiences.
+I am a Technical Lead / Senior iOS Engineer with 10+ years of experience in designing, developing, testing, and delivering scalable mobile applications for iOS and cross-platform platforms.
+
+Expertise in Swift, SwiftUI, UIKit, Objective-C, Flutter, and React Native, with strong knowledge of MVVM, Clean Architecture, SOLID principles, Dependency Injection, Memory Management, and mobile application performance optimization.
+
+Experienced in leading development teams, mentoring engineers, conducting code reviews, collaborating with cross-functional teams, and delivering high-quality applications through Agile methodologies. Skilled in REST API integration, XCTest unit testing, App Store publishing, provisioning, and enterprise app distribution.
+
+Passionate about building reliable, user-focused mobile solutions and solving complex technical challenges.
 
 ## Professional Experience
-### Senior iOS Developer
+### Technical Consultant (Contract)
+**SDNA Tech** | June 2025 – March 2026
+
+- Provide technical leadership and consulting for iOS and cross-platform mobile application development, ensuring scalable, maintainable, and high-quality solutions.
+- Design, develop, and enhance mobile applications using Swift, SwiftUI, UIKit, React Native, and Flutter based on business requirements.
+- Drive technical decision-making, application architecture improvements, and implementation strategies for new and existing projects.
+- Collaborate with Product Managers, UI/UX Designers, QA Engineers, and stakeholders to analyze requirements and deliver effective technical solutions.
+- Review code, mentor developers, and promote best practices including MVVM, Clean Architecture, SOLID principles, and scalable mobile development practices.
+- Optimize application performance, troubleshoot complex technical issues, and support feature development, API integration, releases, and production stability.
+
+##
+### Team Lead
 **SDNA Tech** | May 2021 – May 2025
 
-- Utilized Swift, SwiftUI, Xcode, Core Data, React Native, Flutter, Redux, GetX, Google Analytics, and Crashlytics to build sophisticated mobile applications.
-- Collaborated effectively with UI Designers, Testers, and other developers to deliver cutting-edge applications.
-- Partnered closely with the Manager of Mobile Development to provide accurate project estimates and timely updates.
-- Developed hybrid applications using React Native & Flutter, ensuring cross-platform compatibility.
-- Reviewed client requirements, wireframes, and designs to assess technical feasibility and implement optimal solutions.
-- Leveraged Grand Central Dispatch (GCD) for background tasks and integrated Google Analytics for event tracking.
-- Managed source code using Git and handled issue tracking with Jira, Trello, & Asana.
-- Enhanced product quality through code reviews, unit testing, and collaboration with QA for automation testing.
+- Collaborate with UI Designers, Testers, and other developers to develop cutting edge applications. 
+- Worked closely with the Manager of Mobile Development to provide estimates and updates.
+- Having experience in developing hybrid applications in React Native with Redux.
+- Reviewed client requirements, wireframes, and designs for technical feasibility.
+- Used Grand Central Dispatch GCD for background tasks and Google Analytics for event tracking.
+- Used Git version controlling the source code and Jira for issue tracking.
+- Improved product quality through code reviews, writing effective unit tests and collaborating with QA on implementing automation testing.
 
 ##
 ### Senior iOS Developer
